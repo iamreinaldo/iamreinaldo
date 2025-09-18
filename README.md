@@ -25,8 +25,3 @@ Sou Reinaldo Martins dos Santos Neto, nasci em 06/09/1996, Jacobina-BA e apesar 
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamreinaldo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=stars&hide_title=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamreinaldo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
