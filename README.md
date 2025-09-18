@@ -1,7 +1,6 @@
 # Sobre mim
 
-Sou Reinaldo Martins dos Santos Neto, nasci em 06/09/1996, Jacobina-BA e apesar de ter nascido do interior sou apaixonado por Salvador. Morei lá alguns anos com o objetivo de estudar. Fiz engenharia elétrica e engenharia da computação, ambas não concluídas e hoje estou finalizando ciência da computação, tanto quanto estatística.
-
+Sou Reinaldo Martins dos Santos Neto, nasci em 06/09/1996, Jacobina-BA e apesar de ter nascido do interior sou apaixonado por Salvador. Morei lá alguns anos com o objetivo de estudar. Sou graduado em Ciência da Computação, em Estatística e sou Pós-graduado em IA e Ciência de Dados.
 
 # Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldo-neto-17b498182/) 
